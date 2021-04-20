@@ -1,5 +1,5 @@
 - **👋 Hi, I’m Pedro Xavier**
 - 👀 I’m interested in Web and Mobile apps
 - 🌱 I’m currently learning Flutter and JS
-- 💞️ I’m looking to collaborate on Web projects
+- 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me contato.pgxv@gmail.com
