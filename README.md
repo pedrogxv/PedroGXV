@@ -5,6 +5,6 @@
 - 💞️ I’m looking to collaborate on *WEB* projects
 - 📫 How to reach me **contato.pgxv@gmail.com**
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=tokyonight)](https://github.com/iuricode/)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/iuricode/)
